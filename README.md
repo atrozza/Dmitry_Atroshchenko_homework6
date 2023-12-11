@@ -1,6 +1,6 @@
 #### Dmitry Atroshchenko
 #### Description: Homework 6
-#### Date: 10/12/2023
+#### Date: 11/12/2023
 #### My version Python 3.11
 
 
